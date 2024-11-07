@@ -36,6 +36,6 @@
 
 <h3>📫 How to Reach Me</h3>
 <ul>
-  <li>💼 <a href="https://www.linkedin.com/in/ale-gs">LinkedIn</a> (Your LinkedIn profile link)</li>
+  <li>💼 <a href="https://www.linkedin.com/in/ale-gs">LinkedIn</a></li>
   <li>📧 <a href="mailto:ale.gomez.saez@gmail.com">Email</a></li>
 </ul>
