@@ -17,6 +17,7 @@
 
 <h3>📊 What I’m Working On</h3>
 <ul>
+<li>📱 Currently developing <strong>LiLi</strong>, a platform that connects clients with trusted home professionals (electricians, plumbers, and more), focusing on real-time job requests, quotes, and seamless user experience.</li>
   <li>🛠 Building innovative applications with real-time features and seamless integrations, emphasizing intuitive user experiences and high performance.</li>
   <li>💻 Designing solutions that leverage <strong>cloud technology and containerization</strong> to streamline deployment and scale efficiently.</li>
 </ul>
@@ -25,9 +26,9 @@
 
 <h3>🔧 Tech & Tools</h3>
 <ul>
-  <li><strong>Languages:</strong> JavaScript, Python, Java</li>
-  <li><strong>Frameworks & Libraries:</strong> React, Express, Node.js</li>
-  <li><strong>Databases:</strong> MongoDB, SQL</li>
+  <li><strong>Languages:</strong> JavaScript, Typescript, Python</li>
+  <li><strong>Frameworks & Libraries:</strong> React, Express, Node.js, Nestjs</li>
+  <li><strong>Databases:</strong> Firestore, MongoDB, SQL</li>
   <li><strong>Cloud & Containerization:</strong> Docker, Kubernetes, container orchestration, CI/CD pipelines</li>
   <li><strong>Others:</strong> Vite, Swagger, OpenAPI</li>
 </ul>
