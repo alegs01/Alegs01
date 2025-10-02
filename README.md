@@ -33,12 +33,6 @@
 
 <hr>
 
-<h3>📊 Languages & Frameworks</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,react,nodejs,nestjs,express&perline=8" />
-</p>
-
 <hr>
 
 <h3>🚀 What I’m Working On</h3>
