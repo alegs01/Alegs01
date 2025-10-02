@@ -17,21 +17,28 @@
 <hr>
 
 <h3>🔧 Tech & Tools</h3>
-<ul>
-  <li><strong>Languages:</strong> JavaScript, TypeScript, Python</li>
-  <li><strong>Frameworks & Libraries:</strong> React, Express, Node.js, NestJS</li>
-  <li><strong>Databases:</strong> Firestore, MongoDB, SQL</li>
-  <li><strong>Cloud & Containerization:</strong> Docker, Kubernetes, container orchestration, CI/CD pipelines</li>
-  <li><strong>Others:</strong> Vite, Swagger, OpenAPI</li>
-</ul>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,react,nodejs,nestjs,express,html,css,vite,mongodb,firebase,mysql,postgres,docker,kubernetes,git,github,postman,swagger,linux,vscode&perline=10" />
+</p>
 
 <hr>
 
-<h3>📊 Languages I Use Most</h3>
+<h3>📊 Languages & Frameworks</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale-gs&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,react,nodejs,nestjs,express&perline=8" />
 </p>
+
+<hr>
+
+<h3>🚀 What I’m Working On</h3>
+<ul>
+  <li>📱 Building <strong><a href="https://liliapp.cl">LiLiApp</a></strong> – a platform that connects clients with home professionals (electricians, plumbers, and more) with real-time requests, quotes, and management dashboards.</li>
+  <li>🛠 Developing <strong><a href="https://profesional.liliapp.cl">Profesional LiLiApp</a></strong> – a dashboard for professionals to manage jobs, availability, and client interactions seamlessly.</li>
+  <li>☁️ Designing cloud-ready solutions leveraging <strong>Docker, Kubernetes, CI/CD pipelines</strong> for scalable deployments.</li>
+  <li>💡 Continuously learning and experimenting with <strong>modern frameworks, APIs and cloud technologies</strong>.</li>
+</ul>
 
 <hr>
 
