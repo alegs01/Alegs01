@@ -1,6 +1,15 @@
-<h2>Hi there! 👋 I'm Alejandro Gómez</h2> 
+<h2 align="center">Hi there! 👋 I'm Alejandro Gómez</h2> 
 
-<h3>A passionate fullstack web developer and tech enthusiast from Chile 🌎</h3> 
+<h3 align="center">A passionate fullstack web developer and tech enthusiast from Chile 🌎</h3> 
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ale-gs/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ale.gomez.saez@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 <hr> 
 
