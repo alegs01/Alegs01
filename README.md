@@ -25,16 +25,6 @@
 
 <hr>
 
-<h3>🔧 Tech & Tools</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,react,nodejs,nestjs,express,html,css,vite,mongodb,firebase,mysql,postgres,docker,kubernetes,git,github,postman,swagger,linux,vscode&perline=10" />
-</p>
-
-<hr>
-
-<hr>
-
 <h3>🚀 What I’m Working On</h3>
 <ul>
   <li>📱 Building <strong><a href="https://liliapp.cl">LiLiApp</a></strong> – a platform that connects clients with home professionals (electricians, plumbers, and more) with real-time requests, quotes, and management dashboards.</li>
@@ -42,6 +32,14 @@
   <li>☁️ Designing cloud-ready solutions leveraging <strong>Docker, Kubernetes, CI/CD pipelines</strong> for scalable deployments.</li>
   <li>💡 Continuously learning and experimenting with <strong>modern frameworks, APIs and cloud technologies</strong>.</li>
 </ul>
+
+<hr>
+
+<h3>🔧 Tech & Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,react,nodejs,nestjs,express,html,css,vite,mongodb,firebase,mysql,postgres,docker,kubernetes,git,github,postman,swagger,linux,vscode&perline=10" />
+</p>
 
 <hr>
 
