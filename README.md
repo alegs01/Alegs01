@@ -3,8 +3,8 @@
 <h3 align="center">Fullstack Web Developer | Tech Enthusiast | From Chile 🌎</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ale-gs" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ale.gomez.saez@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ale-gs/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ale.gomez.saez@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -56,26 +56,16 @@
 
 ---
 
-<h2>📈 GitHub Stats</h2>
+<h2>✨ Algo distinto</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ale-gs&theme=dark&hide_border=false" alt="streak"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Cloud+Learner;Apasionado+por+la+tecnología;Siempre+aprendiendo+🚀" alt="Typing SVG" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ale-gs&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-</p>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ale-gs&theme=radical&row=1&column=6&margin-h=15&margin-w=5&no-bg=true"/>
-  </a>
-</div>
 
 ---
 
 <h2>📫 Contacto</h2>
 <ul>
-  <li>💼 <a href="https://www.linkedin.com/in/ale-gs">LinkedIn</a></li>
+  <li>💼 <a href="https://www.linkedin.com/in/ale-gs/">LinkedIn</a></li>
   <li>📧 <a href="mailto:ale.gomez.saez@gmail.com">ale.gomez.saez@gmail.com</a></li>
 </ul>
